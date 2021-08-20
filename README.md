@@ -6,7 +6,7 @@
 - 2020-07 ~ Working as a Java Developer
 ----------------------------------------------------------
 ### 🌏Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjt-tech&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjt-tech&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
