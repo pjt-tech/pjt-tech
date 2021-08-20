@@ -1,13 +1,13 @@
-## 👋 Hi, I’m jintae-park                                                                
-### 👀 I’m interested in java developer from South Korea.
+### 👋 Hi, I’m jintae-park                                                                
+#### 👀 I’m interested in java developer from South Korea.
 
 #### If you contact me, plese leave me a messege or send me a mail 😊
 #### pjint704@gmail.com
 ----------------------------------------------------------
-## 🌟Experience🌟
-### 2020-07 ~ Working as a Java Developer
+### 🌟Experience🌟
+#### 2020-07 ~ Working as a Java Developer
 ----------------------------------------------------------
-## 🌏Stats
+### 🌏Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjt-tech&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
