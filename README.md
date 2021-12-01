@@ -9,7 +9,7 @@
 ----------------------------------------------------------
 ### 🌜I'm currently working with...
 Web.Backend
-
+https://blog.kakaocdn.net/dn/cZsyTw/btq0u5VBWge/F7xmauYA6r8nnbXSz2vJhK/img.png
 ----------------------------------------------------------
 ### 🌏Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjt-tech&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
