@@ -8,10 +8,8 @@
 - 2020-07 ~ Working as a Java Developer
 ----------------------------------------------------------
 ### 🌜I'm currently working with...
-Web.Backend
-<img src="https://blog.kakaocdn.net/dn/cZsyTw/btq0u5VBWge/F7xmauYA6r8nnbXSz2vJhK/img.png"  width="50" height="50">
+Web.Backend   <img src="https://blog.kakaocdn.net/dn/cZsyTw/btq0u5VBWge/F7xmauYA6r8nnbXSz2vJhK/img.png"  width="50" height="50">
 
-출처: https://cutemoomin.tistory.com/entry/Readme-파일에-이미지-넣기-마크다운-이미지 [무민은귀여워]
 ----------------------------------------------------------
 ### 🌏Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjt-tech&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
