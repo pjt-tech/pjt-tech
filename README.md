@@ -8,7 +8,8 @@
 - 2020-07 ~ Working as a Java Developer
 ----------------------------------------------------------
 ### 🌜I'm currently working with...
-Web.Backend    <img src="https://blog.kakaocdn.net/dn/cZsyTw/btq0u5VBWge/F7xmauYA6r8nnbXSz2vJhK/img.png"  width="50" height="50">
+Web.Backend
+- <img src="https://blog.kakaocdn.net/dn/cZsyTw/btq0u5VBWge/F7xmauYA6r8nnbXSz2vJhK/img.png"  width="50" height="50">
 
 ----------------------------------------------------------
 ### 🌏Stats
