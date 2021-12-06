@@ -7,8 +7,7 @@
 ### 🌟Experience🌟
 - 2020-07 ~ Working as a Java Developer
 ----------------------------------------------------------
-### 🌜I'm currently studying...
-#### 👨‍💻Web.Backend stack
+### 👨‍💻Web.Backend stack(🌜I'm currently studying...)
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-boot&logoColor=white"><img src="https://img.shields.io/badge/JPA-181717?style=for-the-badge&logo=Spring-Data-Jpa&logoColor=white"><img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 ----------------------------------------------------------
