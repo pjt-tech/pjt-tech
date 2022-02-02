@@ -2,7 +2,7 @@
 - 👀 I’m interested in java developer from South Korea. 👊I’m ready to grow.
 - If you contact me, plese leave me a messege or send me a mail. thanks.😊 pjint704@gmail.com 📧
 - Resume : https://www.notion.so/Resume-349007fb38a44f4fbb99e42c09f631d6
-- Notion : https://believed-bug-94a.notion.site/web-Back-End-19a006a90c4a42198c3ecc228cac0c4d
+- Notion-study : https://believed-bug-94a.notion.site/web-Back-End-19a006a90c4a42198c3ecc228cac0c4d
 #### Thank you for following💕
 ----------------------------------------------------------
 ### 🌟Experience🌟
